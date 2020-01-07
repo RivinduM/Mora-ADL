@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="R3PkXCRo_62TiBDDPFhhAJAD85UIXMd1Abenk3FoeKo" />
+
 # Mora-ADL
 A multi-modal Human Activities of Daily Living dataset and Data Collection Tool.
 
