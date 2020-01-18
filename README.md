@@ -63,7 +63,7 @@ Run [playDepthVideo.py](https://github.com/RivinduM/Mora-ADL/blob/master/playDep
 
 The skeleton data stream has 5 values per row and for each frame it has 15 such rows. The 15 rows gives the positions of the 15 joint positions as in the below figure.
 
-![Skeleton joint position](https://github.com/RivinduM/Mora-ADL/blob/master/skeletonJoints.png "Skeleton joint positions")
+![Skeleton joint position](https://github.com/RivinduM/Mora-ADL/blob/master/skeleton%20-%20Copy.png "Skeleton joint positions")
 
 
 The 5 values of the row stands for:
