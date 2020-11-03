@@ -119,8 +119,9 @@ Creative Commons Zero v1.0 Universal
 Citation
 ----
 If you use the Mora-ADL dataset or the Mora-ADL Data Collection Tool please cite:
->@article{To be updated soon
-}
+> Madhuranga, D., Madushan, R., Siriwardane, C. et al. Real-time multimodal ADL recognition using convolution neural networks. Vis Comput (2020). https://doi.org/10.1007/s00371-020-01864-y
+
+> C. Siriwardhana, D. Madhuranga, R. Madushan and K. Gunasekera, "Classification of Activities of Daily Living Based on Depth Sequences and Audio," 2019 14th Conference on Industrial and Information Systems (ICIIS), Kandy, Sri Lanka, 2019, pp. 278-283, doi: 10.1109/ICIIS47346.2019.9063306.
 
 Collaborators
 ----
