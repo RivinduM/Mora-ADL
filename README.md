@@ -30,7 +30,7 @@ Table of contents
 # Dataset
 
 ## Link
-[Mora-ADL Dataset](https://drive.google.com/drive/folders/1xKcP2oYMxIxbH7L-qGRABK9Xz5N3QdAA?usp=sharing)
+[Mora-ADL Dataset GDrive](https://drive.google.com/drive/folders/1xKcP2oYMxIxbH7L-qGRABK9Xz5N3QdAA?usp=sharing) or [Mora-ADL Dataset MEGA](https://mega.nz/folder/BmVHHabT#HEOcWk72UAYBYP048AlOlA)
 
 ## Dataset properties
 
